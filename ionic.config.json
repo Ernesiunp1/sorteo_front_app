@@ -1,0 +1,7 @@
+{
+  "name": "sorteoFront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
